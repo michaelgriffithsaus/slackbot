@@ -4,7 +4,7 @@ import time
 import re
 
 #constants
-API_TOKEN='xoxb-193917654034-i0qThchzFt7a7g4BhpDwSJO2'
+API_TOKEN=''
 BOT_NAME='ticktock'
 BOT_ID='U5PSZK810'
 EXAMPLE_COMMAND = 'log'
